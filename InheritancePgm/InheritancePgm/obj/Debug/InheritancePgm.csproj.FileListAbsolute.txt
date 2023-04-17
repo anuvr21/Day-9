@@ -1,0 +1,8 @@
+D:\UST\Day9\InheritancePgm\InheritancePgm\obj\Debug\InheritancePgm.csproj.AssemblyReference.cache
+D:\UST\Day9\InheritancePgm\InheritancePgm\obj\Debug\InheritancePgm.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day9\InheritancePgm\InheritancePgm\obj\Debug\InheritancePgm.csproj.CoreCompileInputs.cache
+D:\UST\Day9\InheritancePgm\InheritancePgm\bin\Debug\InheritancePgm.exe.config
+D:\UST\Day9\InheritancePgm\InheritancePgm\bin\Debug\InheritancePgm.exe
+D:\UST\Day9\InheritancePgm\InheritancePgm\bin\Debug\InheritancePgm.pdb
+D:\UST\Day9\InheritancePgm\InheritancePgm\obj\Debug\InheritancePgm.exe
+D:\UST\Day9\InheritancePgm\InheritancePgm\obj\Debug\InheritancePgm.pdb
