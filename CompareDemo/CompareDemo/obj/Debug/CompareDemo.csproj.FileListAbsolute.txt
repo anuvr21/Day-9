@@ -1,0 +1,8 @@
+D:\UST\Day10\CompareDemo\CompareDemo\bin\Debug\CompareDemo.exe.config
+D:\UST\Day10\CompareDemo\CompareDemo\bin\Debug\CompareDemo.exe
+D:\UST\Day10\CompareDemo\CompareDemo\bin\Debug\CompareDemo.pdb
+D:\UST\Day10\CompareDemo\CompareDemo\obj\Debug\CompareDemo.csproj.AssemblyReference.cache
+D:\UST\Day10\CompareDemo\CompareDemo\obj\Debug\CompareDemo.csproj.SuggestedBindingRedirects.cache
+D:\UST\Day10\CompareDemo\CompareDemo\obj\Debug\CompareDemo.csproj.CoreCompileInputs.cache
+D:\UST\Day10\CompareDemo\CompareDemo\obj\Debug\CompareDemo.exe
+D:\UST\Day10\CompareDemo\CompareDemo\obj\Debug\CompareDemo.pdb
